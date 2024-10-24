@@ -1,0 +1,15 @@
+/*Media Queries*/
+
+@media screen and (max-width: 1200px) {
+    .main_nav {
+        padding: 0px 5rem;
+    }
+
+    .nav_links {
+        flex-basis: 600px;
+    }
+
+    .nav_toggle {
+        display: block;
+    }
+}
